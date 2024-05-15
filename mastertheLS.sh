@@ -1,0 +1,1 @@
+ls -mupA | tr -d ' '
